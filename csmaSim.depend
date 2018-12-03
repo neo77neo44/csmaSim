@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1543851886 source:g:\ccode\csmasim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+	<unistd.h>
+	<windows.h>
+
