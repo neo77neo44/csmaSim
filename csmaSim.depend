@@ -1,9 +1,11 @@
 # depslib dependency file v1.0
-1543851886 source:g:\ccode\csmasim\main.c
+1544540007 source:g:\ccode\csmasim\main.c
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<pthread.h>
 	<unistd.h>
 	<windows.h>
+	<signal.h>
+	<sched.h>
 
